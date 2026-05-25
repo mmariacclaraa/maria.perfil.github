@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(160, 108, 95);
+}
+.perfil{
+    display: flex;
+    background-color: hsl(108, 31%, 50%);
+    border-radius: 8%;
+    margin-top: 80px;
+    justify-content: space-between;
+}
+
+h3 {
+    align-self: self-start;
+    color: darkred;
+    font-family: 'Times New Roman', Times, serif;
+    width: 200px;
+}
+
+img {
+    height: 180px;
+    margin: 20px;
+    border-radius: 20%;
+}
+
+.texto {
+    display: flex;
+    align-items: center;
+    width: 1200px;
+    gap: 10px;
+    margin: 15px;
+}
